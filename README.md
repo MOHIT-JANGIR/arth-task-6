@@ -64,7 +64,7 @@ LET'S START
 # It is now in use.
 # STEP 15 :
 ![Screenshot 2020-10-27 13 42 28](https://user-images.githubusercontent.com/61896468/97419534-2ed88b00-1930-11eb-9830-89019afcf21d.png)
-# It is clearly shoeing the device name being attached.
+# It is clearly showing the device name being attached.
 # STEP 16 :
 ![Screenshot 2020-10-27 14 39 43](https://user-images.githubusercontent.com/61896468/97419538-30a24e80-1930-11eb-9ccf-796f95cd9005.png)
 # Here it show volume id with status "attached".
