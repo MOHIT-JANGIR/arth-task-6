@@ -44,7 +44,6 @@ LET'S START
 ![Screenshot 2020-10-27 16 08 50](https://user-images.githubusercontent.com/61896468/97419586-3ef06a80-1930-11eb-9b5f-ab6f0cb11f5e.png)
 ![Screenshot 2020-10-27 16 08 59](https://user-images.githubusercontent.com/61896468/97419588-40ba2e00-1930-11eb-91ff-2d31f1d0ccbe.png)
 ![Screenshot 2020-10-27 16 09 43](https://user-images.githubusercontent.com/61896468/97419593-41eb5b00-1930-11eb-90b2-2b2402fd67d3.png)
-![Screenshot 2020-10-27 16 48 22](https://user-images.githubusercontent.com/61896468/97419597-43b51e80-1930-11eb-9ded-c7b4bab863ce.png)
 ![Screenshot 2020-10-27 16 49 21](https://user-images.githubusercontent.com/61896468/97419603-444db500-1930-11eb-97e0-172cf226c863.png)
 ![Screenshot 2020-10-27 16 49 39](https://user-images.githubusercontent.com/61896468/97419608-457ee200-1930-11eb-8869-3819ddf563d0.png)
 ![Screenshot 2020-10-27 16 50 17](https://user-images.githubusercontent.com/61896468/97419615-4748a580-1930-11eb-8a0c-b9387f221d66.png)
