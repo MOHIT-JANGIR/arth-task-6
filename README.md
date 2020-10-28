@@ -12,6 +12,8 @@
 
 - Finally place the Cloud Front URL on the webapp code for security and low latency.
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 LET'S START
 # STEP 1 : 
 ![Screenshot 2020-10-27 12 34 09](https://user-images.githubusercontent.com/61896468/97419461-18caca80-1930-11eb-949e-21facdb35742.png)
@@ -41,7 +43,7 @@ LET'S START
 # As we can see it is created with port 80 allowed.
 # STEP 8 :
 ![Screenshot 2020-10-27 12 53 48](https://user-images.githubusercontent.com/61896468/97419505-2718e680-1930-11eb-9852-8e255dfa75aa.png)
-# Describing sg gives more detail about security group likr cidr or alowed port or protocol.
+# Describing sg gives more detail about security group like cidr or allowed port or protocol.
 # STEP 9 :
 ![Screenshot 2020-10-27 12 57 31](https://user-images.githubusercontent.com/61896468/97419512-284a1380-1930-11eb-986a-a0ec67d9b04c.png)
 # Now we can launch instance by attaching newly created sg and key pair and its pending.
@@ -123,4 +125,16 @@ LET'S START
 # STEP 35 :
 ![Screenshot 2020-10-27 17 18 25](https://user-images.githubusercontent.com/61896468/97419641-4d3e8680-1930-11eb-864c-3c22feb1240d.png)
 # Here is my website that is using ec2,ebs,s3,cloudfront for less latency and faster content delivery.
-# 
+
+
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+#  <p align="center"> so finally i have completed `ARTH TASK 6/AWS CSA & DEVS TASK 2`,thanks a lot vimal sir and all the 24*7 working technical volunteers for all your seamless and thankful support  </p> 
