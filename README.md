@@ -121,7 +121,7 @@ LET'S START
 # df -h to see all mounted partitions and /dev/xvdf1 is mounted to /var/www/html/ folder.
 # STEP 34 :
 ![Screenshot 2020-10-27 17 17 53](https://user-images.githubusercontent.com/61896468/97419637-4c0d5980-1930-11eb-8b19-86b96169de98.png)
-# i have put my code in web.html inside /var/ww/html.
+# i have put my code in web.html inside /var/www/html.
 # STEP 35 :
 ![Screenshot 2020-10-27 17 18 25](https://user-images.githubusercontent.com/61896468/97419641-4d3e8680-1930-11eb-864c-3c22feb1240d.png)
 # Here is my website that is using ec2,ebs,s3,cloudfront for less latency and faster content delivery.
