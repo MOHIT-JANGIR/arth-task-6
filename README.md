@@ -15,7 +15,6 @@
 LET'S START
 
 ![Screenshot 2020-10-27 11 56 42](https://user-images.githubusercontent.com/61896468/97419450-16687080-1930-11eb-9040-79d750072f54.png)
-![Screenshot 2020-10-27 12 05 29](https://user-images.githubusercontent.com/61896468/97419457-17999d80-1930-11eb-862a-adad2149bb41.png)
 ![Screenshot 2020-10-27 12 34 09](https://user-images.githubusercontent.com/61896468/97419461-18caca80-1930-11eb-949e-21facdb35742.png)
 ![Screenshot 2020-10-27 12 36 51](https://user-images.githubusercontent.com/61896468/97419469-1b2d2480-1930-11eb-8267-c1aeebdac0e9.png)
 ![Screenshot 2020-10-27 12 40 56](https://user-images.githubusercontent.com/61896468/97419475-1d8f7e80-1930-11eb-8286-6917ab59030f.png)
