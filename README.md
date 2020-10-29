@@ -37,7 +37,7 @@ LET'S START
 # Again just quickly verified sg is created or not.
 # STEP 6 :
 ![Screenshot 2020-10-27 12 51 53](https://user-images.githubusercontent.com/61896468/97419497-241df600-1930-11eb-848b-6e0a6be22a51.png)
-# Now we can add add ingress rule on port 80 for web server on the top of created sg.
+# Now we can add  ingress rule on port 80 for web server on the top of created sg.
 # STEP 7 :
 ![Screenshot 2020-10-27 12 52 58](https://user-images.githubusercontent.com/61896468/97419500-254f2300-1930-11eb-9a80-548bc4ec07ce.png)
 # As we can see it is created with port 80 allowed.
